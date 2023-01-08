@@ -1,0 +1,7 @@
+ssh-keygen -t ed25519 -C "your_email@example.com"
+git config --global user.name "FIRST_NAME LAST_NAME"
+git config --global user.email "email"filesgitfilesgit.pub
+1. create folder
+2. termianl ssh-keygen -t ed25519 -C "your_email@example.com"
+3. git config --global user.name "FIRST_NAME LAST_NAME"
+4. git config --global user.email "email"
