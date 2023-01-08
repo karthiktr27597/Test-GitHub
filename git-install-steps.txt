@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ssh-keygen -t ed25519 -C "your_email@example.com"
 git config --global user.name "FIRST_NAME LAST_NAME"
 git config --global user.email "email"filesgitfilesgit.pub
@@ -7,3 +8,4 @@ git config --global user.email "email"filesgitfilesgit.pub
 4. git config --global user.email "email"
 to get the changes in github - git pull
 new changes
+=======
